@@ -1,0 +1,7 @@
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\obj\Debug\Variable.Instance.Reference.csproj.AssemblyReference.cache
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\obj\Debug\Variable.Instance.Reference.csproj.CoreCompileInputs.cache
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\bin\Debug\Variable.Instance.Reference.exe.config
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\bin\Debug\Variable.Instance.Reference.exe
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\bin\Debug\Variable.Instance.Reference.pdb
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\obj\Debug\Variable.Instance.Reference.exe
+G:\C# Basic\Differences between Variable Instance and Reference\Differences between Variable Instance Reference\Variable.Instance.Reference\obj\Debug\Variable.Instance.Reference.pdb
