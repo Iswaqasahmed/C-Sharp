@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C.Sharp.Tutorial", "C.Sharp.Tutorial.csproj", "{BE398D39-6230-4682-BC06-4207049677BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifierMethodAnotherNameSpace", "..\AccessSpecifierMethodAnotherNameSpace\AccessSpecifierMethodAnotherNameSpace.csproj", "{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BE398D39-6230-4682-BC06-4207049677BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE398D39-6230-4682-BC06-4207049677BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE398D39-6230-4682-BC06-4207049677BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

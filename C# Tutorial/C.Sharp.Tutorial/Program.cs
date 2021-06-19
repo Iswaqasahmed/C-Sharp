@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace C.Sharp.Tutorial
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Main in Program Class");
+            
             Console.ReadKey();
         }
     }

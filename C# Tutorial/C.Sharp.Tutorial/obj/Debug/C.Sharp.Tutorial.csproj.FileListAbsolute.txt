@@ -5,10 +5,10 @@ C:\Users\Waqas.BMC\source\repos\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.cspr
 C:\Users\Waqas.BMC\source\repos\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.CoreCompileInputs.cache
 C:\Users\Waqas.BMC\source\repos\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.exe
 C:\Users\Waqas.BMC\source\repos\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.pdb
+G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe.config
+G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe
+G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.pdb
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.AssemblyReference.cache
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.CoreCompileInputs.cache
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.exe
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.pdb
-G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe.config
-G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe
-G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.pdb

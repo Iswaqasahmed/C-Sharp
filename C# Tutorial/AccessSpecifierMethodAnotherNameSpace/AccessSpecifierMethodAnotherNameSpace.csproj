@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE398D39-6230-4682-BC06-4207049677BF}</ProjectGuid>
+    <ProjectGuid>{DE4B16F4-0AD2-4607-9F19-B0ACD8E02A9C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C.Sharp.Tutorial</RootNamespace>
-    <AssemblyName>C.Sharp.Tutorial</AssemblyName>
+    <RootNamespace>AccessSpecifierMethodAnotherNameSpace</RootNamespace>
+    <AssemblyName>AccessSpecifierMethodAnotherNameSpace</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,10 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>
-    </StartupObject>
+    <StartupObject>AccessSpecifierMethodAnotherNameSpace.AccessMethodAnotherNameSpaceInheritance</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="C.Sharp.Tutorial">
+      <HintPath>..\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,10 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccessSpecifiers.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="AccessMethodAnotherNameSpace.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Variable.Instance.Reference.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

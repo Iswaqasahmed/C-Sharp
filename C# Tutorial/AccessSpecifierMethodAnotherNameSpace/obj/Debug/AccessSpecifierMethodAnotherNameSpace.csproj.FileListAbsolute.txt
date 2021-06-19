@@ -1,0 +1,11 @@
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.AssemblyReference.cache
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CoreCompileInputs.cache
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe.config
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.pdb
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe.config
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CopyComplete
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+G:\Git Hub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
