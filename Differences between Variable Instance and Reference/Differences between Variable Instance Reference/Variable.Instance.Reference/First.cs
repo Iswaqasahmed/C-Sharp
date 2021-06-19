@@ -37,8 +37,7 @@ namespace Variable.Instance.Reference
 
 
 
-            /// reference of class: a class variable 
-            ///  
+
             First first = new First(); // first instance of class
             First second = new First(); // second instance of class
             Console.WriteLine(first.x + " " + second.x);
@@ -49,6 +48,17 @@ namespace Variable.Instance.Reference
             second.x = 200;
             Console.WriteLine(first.x + " " + second.x);
 
+
+            /// reference of class: a class variable 
+            ///  
+
+            //instance of a class: a copy of the that is initialized by using the new keyword which has its own memory and never shared with another instance.
+            //Reference of a class: a copy of the class that is initialized by using an existing instance and references of class will not have any memory of \
+            //the instance that assigned for initializing the variable.
+            //-- Reference of a class can be called as a pointer to the instance and every modification we perform on the members using instance reflects when
+            //we access those members thrugyh reference and vice-versa
+
+            First third = first; // it is pointer to first variable
 
 
 
