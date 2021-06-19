@@ -45,6 +45,23 @@ namespace C.Sharp.Tutorial
         }
          
 
+        static void Main(string[] args)
+        {
+            AccessSpecifiers accspecf = new AccessSpecifiers();
+            accspecf.PrivateMethod();
+            accspecf.InternalMethod();
+            accspecf.ProtectedMethod();
+            accspecf.ProtectedInternalMethod();
+            accspecf.InternalMethod();
+        }
 
     }
+
+    class AccessSpecifierCheck:AccessSpecifiers
+    {
+
+    }
+
+
+
 }
