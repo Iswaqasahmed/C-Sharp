@@ -8,9 +8,10 @@ namespace C.Sharp.Tutorial
 {
     class Program
     {
-        //static void Main(string[] args)
-        //{
-
-        //}
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Main in Program Class");
+            Console.ReadKey();
+        }
     }
 }
