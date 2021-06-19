@@ -14,9 +14,36 @@ namespace C.Sharp.Tutorial
         //- internal
         //- protected
         //- protected internal
-        //- public
+        //-  public       --> Access any where you want
 
 
+
+        private void PrivateMethod()
+        {
+            Console.WriteLine("It is private Method");
+        }
+
+        internal void InternalMethod()
+        {
+            Console.WriteLine("It is internal Method");
+        }
+
+
+        protected void ProtectedMethod()
+        {
+            Console.WriteLine("It is Protected Method");
+        }
+
+        protected internal void ProtectedInternalMethod()
+        {
+            Console.WriteLine("It is Protected Internal Method");
+        }
+
+        public void PublicMethod()
+        {
+            Console.WriteLine("It is Public Method");
+        }
+         
 
 
     }
