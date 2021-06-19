@@ -59,7 +59,12 @@ namespace Variable.Instance.Reference
             //we access those members thrugyh reference and vice-versa
 
             First third = first; // it is pointer to first variable
+            Console.WriteLine(first.x + " "+ third.x);
 
+            first.x = 400;
+            Console.WriteLine(first.x + " " + third.x);
+
+            Console.ReadKey();
 
 
         }
