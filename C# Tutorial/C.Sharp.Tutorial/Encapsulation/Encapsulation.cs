@@ -11,9 +11,17 @@ namespace C.Sharp.Tutorial.Encapsulation
     {
         // Encapsulation is a mechanism of wrapping the data(variable) and code acting on the data
         // (method or properties) together as a single unit.
+        /// <summary>
+        /// Variables of a class will be hidden from other classes, and can be accessed only through the method or properties
+        /// of their current class
+        /// </summary>
         public Encapsulation()
         {
-            Console.WriteLine("Encapusulation Class ...");
+            //Console.WriteLine("Encapusulation Class ...");
         }
+        
+
+
+
     }
 }
