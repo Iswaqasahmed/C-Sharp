@@ -19,3 +19,10 @@ D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sha
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe.config
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.pdb
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe.config
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.pdb
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.AssemblyReference.cache
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.CoreCompileInputs.cache
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.exe
+D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.pdb

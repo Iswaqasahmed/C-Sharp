@@ -50,6 +50,7 @@
     <Compile Include="Encapsulation\Encapsulation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="socket\socket.client.cs" />
     <Compile Include="Variable.Instance.Reference.cs" />
   </ItemGroup>
   <ItemGroup>
