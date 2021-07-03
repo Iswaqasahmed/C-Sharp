@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using C.Sharp.Tutorial.Encapsulation;
-
+using C.Sharp.Tutorial.socket;
 
 namespace C.Sharp.Tutorial
 {
@@ -13,9 +13,10 @@ namespace C.Sharp.Tutorial
         static void Main(string[] args)
         {
 
-            Encapsulation.Encapsulation ec = new Encapsulation.Encapsulation();
+            //Encapsulation.Encapsulation ec = new Encapsulation.Encapsulation();
 
-            Console.WriteLine("Main in Program Class");
+            socket.socket sck = new socket.socket();
+            sck.Sender();
             
             Console.ReadKey();
         }
