@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\C# Tutorial",
-    "\\C# Tutorial\\C.Sharp.Tutorial"
+    "\\C# Tutorial\\C.Sharp.Tutorial",
+    "\\C# Tutorial\\C.Sharp.Tutorial\\socket"
   ],
-  "SelectedNode": "\\C# Tutorial\\C.Sharp.Tutorial\\Variable.Instance.Reference.cs",
+  "SelectedNode": "\\C# Tutorial\\C.Sharp.Tutorial\\socket\\socket.client.cs",
   "PreviewInSolutionExplorer": false
 }

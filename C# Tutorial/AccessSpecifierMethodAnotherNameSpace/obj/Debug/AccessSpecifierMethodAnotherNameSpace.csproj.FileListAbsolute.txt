@@ -20,3 +20,14 @@ D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherName
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CopyComplete
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.exe
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe.config
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.pdb
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe.config
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.AssemblyReference.cache
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CopyComplete
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+C:\Users\shariq\source\repos\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
