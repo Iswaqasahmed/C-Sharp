@@ -15,6 +15,8 @@ namespace C.Sharp.Tutorial
 
             //Encapsulation.Encapsulation ec = new Encapsulation.Encapsulation();
 
+            socket.Client sck = new socket.Client();
+            sck.client();
             //socket.Server sck = new socket.Server();
             //sck.Recieved();
             Console.ReadKey();
