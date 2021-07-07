@@ -8,5 +8,10 @@ namespace C.Sharp.Tutorial.Complex.Class
 {
     class ComplexClass
     {
+        internal float real? = null, image? = null;
+        public ComplexClass()
+        {
+
+        }
     }
 }
