@@ -16,7 +16,7 @@ namespace C.Sharp.Tutorial.socket
             {
 
                 Socket sck = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
-                IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("localhost"), 1994);
+                IPEndPoint endPoint = new IPEndPoint(0, 1994);
                 sck.Connect(endPoint);
                 Console.WriteLine("Enter Message");
                 string msg = Console.ReadLine();
