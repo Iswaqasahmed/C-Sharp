@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace C.Sharp.Tutorial.Complex.Class
 {
-    class ComplexClass
+    class Complex
     {
         internal float? real = null, image = null;
-        public ComplexClass()
+        public Complex()
         {
         }
 
-        public ComplexClass(float r,float i)
+        public Complex(float r,float i)
         {
             real = r;
             image = i;
@@ -42,16 +42,22 @@ namespace C.Sharp.Tutorial.Complex.Class
         }
 
         // complex class that is somelogic
-        public ComplexClass AddComplex(ComplexClass y)
+        public Complex AddComplex(Complex y)
         {
-            ComplexClass t;
-            t = new ComplexClass();
+            Complex t;
+            t = new Complex();
             t.real = real + y.real;
             t.image = image + y.image;
             return t; // what would be t return ?
         }
-
-
+        public Complex MulComplex(Complex y)
+        {
+            Complex t;
+            t = new Complex();
+            t.real = real * y.real - image * y.image;
+            t.image = real * y.image + y.real * image;
+            return t;
+        }
 
     }
 }
