@@ -12,7 +12,6 @@ G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.cspro
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.CoreCompileInputs.cache
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.exe
 G:\Git Hub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.pdb
-D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.AssemblyReference.cache
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csproj.CoreCompileInputs.cache
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.exe
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.pdb
@@ -32,3 +31,4 @@ C:\Users\shariq\Source\Repos\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\o
 C:\Users\shariq\Source\Repos\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe.config
 C:\Users\shariq\Source\Repos\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.exe
 C:\Users\shariq\Source\Repos\Iswaqasahmed\C-Sharp\C# Tutorial\C.Sharp.Tutorial\bin\Debug\C.Sharp.Tutorial.pdb
+D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\C.Sharp.Tutorial\obj\Debug\C.Sharp.Tutorial.csprojAssemblyReference.cache

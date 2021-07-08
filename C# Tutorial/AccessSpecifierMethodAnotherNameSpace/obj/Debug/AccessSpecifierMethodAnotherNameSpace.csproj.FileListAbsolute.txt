@@ -45,3 +45,4 @@ D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMeth
 D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.exe
 D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
 >>>>>>> a688a151f3fcea89b2aaaa2f06a53422fa1d92d0
+D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csprojAssemblyReference.cache
