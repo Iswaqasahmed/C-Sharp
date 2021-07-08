@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>C.Sharp.Tutorial.Program</StartupObject>
+    <StartupObject>C.Sharp.Tutorial.Complex.Class.ComplexNumbers</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccessSpecifiers\AccessSpecifiers.cs" />
-    <Compile Include="Complex.Class\ComplexClass.cs" />
+    <Compile Include="Complex.Class\Complex.cs" />
     <Compile Include="Encapsulation\Encapsulation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
