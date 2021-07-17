@@ -46,3 +46,14 @@ D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMeth
 D:\C# code directory\GITHUB\Iswaqasahmed\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
 >>>>>>> a688a151f3fcea89b2aaaa2f06a53422fa1d92d0
 D:\C# Code Directory\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csprojAssemblyReference.cache
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe.config
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.pdb
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\bin\Debug\C.Sharp.Tutorial.exe.config
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.AssemblyReference.cache
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.csproj.CopyComplete
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.exe
+C:\Users\shariq\Documents\GitHub\C-Sharp\C# Tutorial\AccessSpecifierMethodAnotherNameSpace\obj\Debug\AccessSpecifierMethodAnotherNameSpace.pdb
