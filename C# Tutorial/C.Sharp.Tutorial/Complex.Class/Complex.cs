@@ -18,7 +18,9 @@ namespace C.Sharp.Tutorial.Complex.Class
             real = r;
             image = i;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
         public void GetData()
         {
             float r, i;
@@ -63,32 +65,50 @@ namespace C.Sharp.Tutorial.Complex.Class
 
     class ComplexNumbers
     {
-        public static  string Token()
+       
+        static void Main(string[] args)
+        {
+            Complex c1, c2, c3;
+            c1 = new Complex();
+            c1.SetData(2.0f, 2.0f);
+
+            c2 = new Complex();
+            c3 = new Complex();
+            //c3 = c1.AddComplex(c2);
+            c3 = c1.AddComplex(new Complex());
+            Console.WriteLine("Complex C3");
+            c3.DisplayData();
+
+
+            Complex c4, c5, c6;
+            c4 = new Complex();
+            c4.GetData();
+
+            c5 = new Complex();
+
+            c6 = new Complex();
+            c6 = c4.MulComplex(c5);
+
+            Complex c7;
+            c7 = new Complex();
+            c7 = c1.AddComplex(c2.MulComplex(c3));
+            Console.WriteLine("Complex c7");
+            c7.DisplayData();
+
+
+
+
+
+        }
+
+
+
+        public static string Token()
         {
             string token = Convert.ToBase64String(Guid.NewGuid().ToByteArray());
             byte[] time = BitConverter.GetBytes(DateTime.UtcNow.ToBinary());
             byte[] key = Guid.NewGuid().ToByteArray();
             return token;
-        }
-        static void Main(string[] args)
-        {
-            //Complex c1, c2, c3;
-            //c1 = new Complex();
-            //c1.SetData(2.0f,2.0f);
-            //c2 = new Complex();
-            //c3 = new Complex();
-            ////c3 = c1.AddComplex(c2);
-            //c3 = c1.AddComplex(new Complex());
-            //Console.WriteLine("Complex C3");
-            //c3.DisplayData();
-           
-            byte[] data = Convert.FromBase64String(Token());
-            DateTime when = DateTime.FromBinary(BitConverter.ToInt64(data, 0));
-            if (when < DateTime.UtcNow.AddHours(-24))
-            {
-                Console.WriteLine(" " + data.ToArray());
-            }
-            Console.WriteLine();
         }
     }
 
