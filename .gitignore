@@ -1,0 +1,31 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/C-Sharp.slnx/v18
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/C# Tutorial/C.Sharp.Tutorial/.vs/C.Sharp.Tutorial
+/C# Tutorial/C.Sharp.Tutorial/packages/MailKit.4.17.0/docs
+/C# Tutorial/C.Sharp.Tutorial/packages/MailKit.4.17.0/lib
+/C# Tutorial/C.Sharp.Tutorial/packages/MimeKit.4.17.0/docs
+/C# Tutorial/C.Sharp.Tutorial/packages/MimeKit.4.17.0/lib/net10.0
+/C# Tutorial/C.Sharp.Tutorial/packages/MimeKit.4.17.0/lib/net462
+/C# Tutorial/C.Sharp.Tutorial/packages/MimeKit.4.17.0/lib/net47
+/C# Tutorial/C.Sharp.Tutorial/packages/MimeKit.4.17.0/lib
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Algorithms.4.3.1/lib
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Algorithms.4.3.1/ref
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Algorithms.4.3.1/runtimes
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Algorithms.4.3.1
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Cng.5.0.0/lib
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Cng.5.0.0
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Security.Cryptography.Pkcs.8.0.1
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Text.Encoding.CodePages.8.0.0
+/C# Tutorial/C.Sharp.Tutorial/packages/System.Threading.Tasks.Extensions.4.6.3
+/C# Tutorial/C.Sharp.Tutorial/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.force
+/C# Tutorial/C.Sharp.Tutorial/obj/Debug/C.Sharp.Tutorial.csproj.AssemblyReference.cache
+/C# Tutorial/C.Sharp.Tutorial/packages/MailKit.4.17.0
+/C# Tutorial/AccessSpecifierMethodAnotherNameSpace/obj/Debug/AccessSpecifierMethodAnotherNameSpace.csproj.AssemblyReference.cache
+/C# Tutorial/AccessSpecifierMethodAnotherNameSpace/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.nupkg
